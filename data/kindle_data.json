@@ -33,7 +33,7 @@
     "utcEndTime": "2025-11-27T08:00:00.000Z",
     "start": "2025-11-09T00:00:00.000Z",
     "end": "2025-11-27T00:00:00.000Z",
-    "ttl": 1764647124
+    "ttl": 1764733449
   },
   "longest_weekly_streak": {
     "duration": 3,
@@ -46,6 +46,14 @@
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "LNBXY6U6MMBFJFPKWQDKH7I6HGM7GP7C",
+        "read_event_id": "e1eabeb9-c424-469b-bb3a-c9db2c3cce3c",
+        "date_read": "2025-12-02T09:47:18-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "5LL6FURT7H2Q666XQ45GPQU2HOTH5WMK",
         "read_event_id": "7571ea47-a45a-4a57-9040-c5a54acd6c03",
@@ -149,7 +157,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 30,
+    "daysLeftInCurrentChallenge": 29,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
