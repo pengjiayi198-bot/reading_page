@@ -138,17 +138,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
-        "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
-        "date_read": "2025-12-19T00:29:52-08:00",
+        "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
+        "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
+        "date_read": "2025-12-19T09:31:14-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "HQ6LLALTJMNVK2B6APGLCWO5SSWBDLAK",
-        "read_event_id": "412d92ea-8fff-4a8d-8bcb-50e41d5a3797",
-        "date_read": "2025-12-19T10:31:53-08:00",
+        "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
+        "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
+        "date_read": "2025-12-19T00:29:52-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -162,9 +162,9 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
-        "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
-        "date_read": "2025-12-19T09:31:14-08:00",
+        "asin": "HQ6LLALTJMNVK2B6APGLCWO5SSWBDLAK",
+        "read_event_id": "412d92ea-8fff-4a8d-8bcb-50e41d5a3797",
+        "date_read": "2025-12-19T10:31:53-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -320,37 +320,37 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 0,
+    "daysLeftInCurrentChallenge": 89,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 0,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_b4eaf405-2b34-4f34-b8b0-bee54a0ac60b.png",
-        "quantity": 1,
-        "title": "Trendsetter",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
         "quantity": 0,
         "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_SilverReader_21fe19f7-5807-3fb7-a491-c14e7a519764.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SilverReader_82641bcd-f5b6-3ac6-8f24-ebd06ca64066.png",
         "quantity": 0,
         "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
         "quantity": 0,
-        "title": "Perfect Month",
+        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
+        "quantity": 0,
+        "title": "Bibliophile",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
       }
     ]
   }
