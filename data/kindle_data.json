@@ -29,49 +29,73 @@
     "2026-01-28",
     "2026-01-30",
     "2026-02-09",
-    "2026-02-11"
+    "2026-02-11",
+    "2026-02-12",
+    "2026-02-13",
+    "2026-02-14",
+    "2026-02-15",
+    "2026-02-16",
+    "2026-02-17",
+    "2026-02-18",
+    "2026-02-19",
+    "2026-02-20",
+    "2026-02-21",
+    "2026-02-22"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 12,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-22T08:00:00.000Z",
+    "start": "2026-02-11T00:00:00.000Z",
+    "end": "2026-02-22T00:00:00.000Z",
+    "ttl": 1771814089
   },
   "longest_daily_streak": {
-    "duration": 8,
+    "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-12T08:00:00.000Z",
-    "start": "2026-01-05T00:00:00.000Z",
-    "end": "2026-01-12T00:00:00.000Z"
+    "utcEndTime": "2026-02-22T08:00:00.000Z",
+    "start": "2026-02-11T00:00:00.000Z",
+    "end": "2026-02-22T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 1,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-11T08:00:00.000Z",
+    "utcEndTime": "2026-02-22T08:00:00.000Z",
     "start": "2026-02-09T00:00:00.000Z",
-    "end": "2026-02-11T00:00:00.000Z",
-    "ttl": 1771727636
+    "end": "2026-02-22T00:00:00.000Z",
+    "ttl": 1771814089
   },
   "longest_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-27T08:00:00.000Z",
-    "start": "2025-11-09T00:00:00.000Z",
-    "end": "2025-11-27T00:00:00.000Z"
+    "utcEndTime": "2026-02-22T08:00:00.000Z",
+    "start": "2026-02-09T00:00:00.000Z",
+    "end": "2026-02-22T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "at_risk",
+  "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
       {
-        "asin": "XUBM5VSRIKQNSMZ5GDGI2HIWTNNTB2E2",
-        "read_event_id": "492ad0cb-4286-4e4d-9401-2574e3830900",
-        "date_read": "2025-12-28T10:08:52-08:00",
+        "asin": "GZ74653T3IHJJCMALH6FKUUSQ6MPBVJN",
+        "read_event_id": "cc5f88e6-5987-4597-a44a-a9ff8a141ce0",
+        "date_read": "2026-02-14T23:01:17-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
-        "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
-        "date_read": "2025-12-26T12:03:53-08:00",
+        "asin": "DOKBF2VEJSXSCDURGGR5F3K3YKLO56AY",
+        "read_event_id": "b2ac11c5-d81a-4f85-80f4-34f114fadbf0",
+        "date_read": "2026-02-14T22:17:18-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "XUBM5VSRIKQNSMZ5GDGI2HIWTNNTB2E2",
+        "read_event_id": "492ad0cb-4286-4e4d-9401-2574e3830900",
+        "date_read": "2025-12-28T10:08:52-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -88,6 +112,14 @@
         "asin": "ZVFAXELGQW5WYBRZOVM2Q6IXQRTSNXWD",
         "read_event_id": "bc29b249-2c3a-4e7a-bffa-f1535ebf71e1",
         "date_read": "2025-12-26T07:58:45-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
+        "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
+        "date_read": "2025-12-26T12:03:53-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -339,14 +371,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 38,
+    "daysLeftInCurrentChallenge": 37,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ReadersDozen_49b2b7ea-eab2-4f91-9897-9ef7482f87d9.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_BronzeReader_135d1a59-dd53-3262-9a3d-f97eb0adb5df.png",
         "quantity": 1,
-        "title": "Reader's Dozen",
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -365,9 +397,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
