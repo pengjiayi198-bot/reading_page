@@ -45,12 +45,7 @@
     "2026-02-27"
   ],
   "current_daily_streak": {
-    "duration": 1,
-    "readingMarketplace": 1,
-    "utcEndTime": "2026-02-27T08:00:00.000Z",
-    "start": "2026-02-27T00:00:00.000Z",
-    "end": "2026-02-27T00:00:00.000Z",
-    "ttl": 1772332874
+    "duration": 0
   },
   "longest_daily_streak": {
     "duration": 12,
@@ -65,7 +60,7 @@
     "utcEndTime": "2026-02-27T08:00:00.000Z",
     "start": "2026-02-09T00:00:00.000Z",
     "end": "2026-02-27T00:00:00.000Z",
-    "ttl": 1772332874
+    "ttl": 1772418610
   },
   "longest_weekly_streak": {
     "duration": 3,
@@ -84,6 +79,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "2055E36BD1724A318CC9D12E96287940",
+        "read_event_id": "6b3d5ac5-4378-4fbf-bc38-e9a3bdffb069",
+        "date_read": "2026-03-01T02:09:11-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "GZ74653T3IHJJCMALH6FKUUSQ6MPBVJN",
         "read_event_id": "cc5f88e6-5987-4597-a44a-a9ff8a141ce0",
@@ -109,14 +112,6 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "X5Z55OFM7QPTULH7JCDCMXUTY2SVXRX3",
-        "read_event_id": "e67082ab-bb63-4d90-93fd-8b03a85a0d1b",
-        "date_read": "2025-12-26T09:56:48-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
         "asin": "ZVFAXELGQW5WYBRZOVM2Q6IXQRTSNXWD",
         "read_event_id": "bc29b249-2c3a-4e7a-bffa-f1535ebf71e1",
         "date_read": "2025-12-26T07:58:45-08:00",
@@ -125,9 +120,9 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "VUQIEOYHWXAF6Z7TQFP5ELU2YZCMNA2F",
-        "read_event_id": "c9b096cb-b3fb-49b2-b709-cb7b21b867e9",
-        "date_read": "2025-12-26T07:22:49-08:00",
+        "asin": "X5Z55OFM7QPTULH7JCDCMXUTY2SVXRX3",
+        "read_event_id": "e67082ab-bb63-4d90-93fd-8b03a85a0d1b",
+        "date_read": "2025-12-26T09:56:48-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -141,9 +136,9 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "IRQHOE3HCBLKOVS3X55I7UF4IYCVSBGD",
-        "read_event_id": "4814d33a-ba2f-4a72-8f4b-a4036429d07e",
-        "date_read": "2025-12-25T10:50:19-08:00",
+        "asin": "VUQIEOYHWXAF6Z7TQFP5ELU2YZCMNA2F",
+        "read_event_id": "c9b096cb-b3fb-49b2-b709-cb7b21b867e9",
+        "date_read": "2025-12-26T07:22:49-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -152,6 +147,14 @@
         "asin": "5M7WWDUNBIC7SJOCMR3JXIS2VFXIANHW",
         "read_event_id": "edf75ee2-ca18-4a01-aeed-e9d84baa713d",
         "date_read": "2025-12-25T01:55:49-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "IRQHOE3HCBLKOVS3X55I7UF4IYCVSBGD",
+        "read_event_id": "4814d33a-ba2f-4a72-8f4b-a4036429d07e",
+        "date_read": "2025-12-25T10:50:19-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -197,22 +200,6 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
-        "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
-        "date_read": "2025-12-19T00:29:52-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
-        "asin": "FNDWS3GT7YEWTQU3TCWE3QBIOHXS7MBI",
-        "read_event_id": "e3c138c9-d8d5-4187-9261-75d24dc01e27",
-        "date_read": "2025-12-19T00:55:33-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
         "asin": "HQ6LLALTJMNVK2B6APGLCWO5SSWBDLAK",
         "read_event_id": "412d92ea-8fff-4a8d-8bcb-50e41d5a3797",
         "date_read": "2025-12-19T10:31:53-08:00",
@@ -224,6 +211,22 @@
         "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
         "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
         "date_read": "2025-12-19T09:31:14-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
+        "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
+        "date_read": "2025-12-19T00:29:52-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "FNDWS3GT7YEWTQU3TCWE3QBIOHXS7MBI",
+        "read_event_id": "e3c138c9-d8d5-4187-9261-75d24dc01e27",
+        "date_read": "2025-12-19T00:55:33-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -245,17 +248,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "5PC5YS7ZBMXMK7ZK6RF6LUQ26HEBMN2L",
-        "read_event_id": "863c4be4-ceb8-400d-8e1e-5762e74855bc",
-        "date_read": "2025-12-03T10:09:37-08:00",
+        "asin": "5WSNC54A2KDSOXPRG4NCJI77Y2IRDXIV",
+        "read_event_id": "d8c50880-b1d6-48cc-a146-97ddbe4b6902",
+        "date_read": "2025-12-03T11:55:45-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "5WSNC54A2KDSOXPRG4NCJI77Y2IRDXIV",
-        "read_event_id": "d8c50880-b1d6-48cc-a146-97ddbe4b6902",
-        "date_read": "2025-12-03T11:55:45-08:00",
+        "asin": "5PC5YS7ZBMXMK7ZK6RF6LUQ26HEBMN2L",
+        "read_event_id": "863c4be4-ceb8-400d-8e1e-5762e74855bc",
+        "date_read": "2025-12-03T10:09:37-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -379,14 +382,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 31,
+    "daysLeftInCurrentChallenge": 30,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 6,
+    "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SecretRecipe_518a4f12-619c-40b1-ac03-bbd9cec8ec9f.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_02047b0f-8c16-44e2-be13-c7ddabc7df5f.png",
         "quantity": 1,
-        "title": "Secret Recipe",
+        "title": "Noble Steed",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -405,11 +408,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectMonth_845978f4-f40d-3f29-9601-37e8742b27d2.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
