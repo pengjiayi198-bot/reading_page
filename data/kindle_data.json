@@ -60,37 +60,38 @@
     "2026-03-19",
     "2026-03-20",
     "2026-03-21",
-    "2026-03-22"
+    "2026-03-22",
+    "2026-03-23"
   ],
   "current_daily_streak": {
-    "duration": 17,
+    "duration": 18,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-22T07:00:00.000Z",
+    "utcEndTime": "2026-03-23T07:00:00.000Z",
     "start": "2026-03-06T00:00:00.000Z",
-    "end": "2026-03-22T00:00:00.000Z",
-    "ttl": 1774233492
+    "end": "2026-03-23T00:00:00.000Z",
+    "ttl": 1774319379
   },
   "longest_daily_streak": {
-    "duration": 17,
+    "duration": 18,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-22T07:00:00.000Z",
+    "utcEndTime": "2026-03-23T07:00:00.000Z",
     "start": "2026-03-06T00:00:00.000Z",
-    "end": "2026-03-22T00:00:00.000Z"
+    "end": "2026-03-23T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-22T07:00:00.000Z",
+    "utcEndTime": "2026-03-23T07:00:00.000Z",
     "start": "2026-02-09T00:00:00.000Z",
-    "end": "2026-03-22T00:00:00.000Z",
-    "ttl": 1774233492
+    "end": "2026-03-23T00:00:00.000Z",
+    "ttl": 1774319379
   },
   "longest_weekly_streak": {
     "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-22T07:00:00.000Z",
+    "utcEndTime": "2026-03-23T07:00:00.000Z",
     "start": "2026-02-09T00:00:00.000Z",
-    "end": "2026-03-22T00:00:00.000Z"
+    "end": "2026-03-23T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -102,6 +103,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "OX722DI6OAXC7PQY4FKI5WOBN2AXWZ26",
+        "read_event_id": "5d668d35-466f-430a-a856-436d8be081e7",
+        "date_read": "2026-03-23T11:26:16-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "HSNEZ7WKFYD6CYCVN5NU4THB57FUQRWA",
         "read_event_id": "dece67a3-408b-4c2a-af8e-fd4b49b643e3",
@@ -143,9 +152,9 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
-        "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
-        "date_read": "2025-12-26T12:03:53-08:00",
+        "asin": "X5Z55OFM7QPTULH7JCDCMXUTY2SVXRX3",
+        "read_event_id": "e67082ab-bb63-4d90-93fd-8b03a85a0d1b",
+        "date_read": "2025-12-26T09:56:48-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -159,17 +168,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "ZVFAXELGQW5WYBRZOVM2Q6IXQRTSNXWD",
-        "read_event_id": "bc29b249-2c3a-4e7a-bffa-f1535ebf71e1",
-        "date_read": "2025-12-26T07:58:45-08:00",
+        "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
+        "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
+        "date_read": "2025-12-26T12:03:53-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "X5Z55OFM7QPTULH7JCDCMXUTY2SVXRX3",
-        "read_event_id": "e67082ab-bb63-4d90-93fd-8b03a85a0d1b",
-        "date_read": "2025-12-26T09:56:48-08:00",
+        "asin": "ZVFAXELGQW5WYBRZOVM2Q6IXQRTSNXWD",
+        "read_event_id": "bc29b249-2c3a-4e7a-bffa-f1535ebf71e1",
+        "date_read": "2025-12-26T07:58:45-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -215,14 +224,6 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "W7DUMWI5GAUGI5MKXAOOIRVIM2X2OFMJ",
-        "read_event_id": "9da253ed-4af1-41c0-94f2-1db4057ac5fe",
-        "date_read": "2025-12-20T08:48:31-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
         "asin": "NNQYP4WWY7SQV6M24J6ZT6IA3JIWURFA",
         "read_event_id": "6744a2ae-133c-4a84-887d-e1316aa18de5",
         "date_read": "2025-12-20T02:14:09-08:00",
@@ -231,9 +232,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
-        "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
-        "date_read": "2025-12-19T00:29:52-08:00",
+        "asin": "W7DUMWI5GAUGI5MKXAOOIRVIM2X2OFMJ",
+        "read_event_id": "9da253ed-4af1-41c0-94f2-1db4057ac5fe",
+        "date_read": "2025-12-20T08:48:31-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
+        "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
+        "date_read": "2025-12-19T09:31:14-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -247,9 +256,9 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
-        "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
-        "date_read": "2025-12-19T09:31:14-08:00",
+        "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
+        "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
+        "date_read": "2025-12-19T00:29:52-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -279,17 +288,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "5WSNC54A2KDSOXPRG4NCJI77Y2IRDXIV",
-        "read_event_id": "d8c50880-b1d6-48cc-a146-97ddbe4b6902",
-        "date_read": "2025-12-03T11:55:45-08:00",
+        "asin": "5PC5YS7ZBMXMK7ZK6RF6LUQ26HEBMN2L",
+        "read_event_id": "863c4be4-ceb8-400d-8e1e-5762e74855bc",
+        "date_read": "2025-12-03T10:09:37-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "5PC5YS7ZBMXMK7ZK6RF6LUQ26HEBMN2L",
-        "read_event_id": "863c4be4-ceb8-400d-8e1e-5762e74855bc",
-        "date_read": "2025-12-03T10:09:37-08:00",
+        "asin": "5WSNC54A2KDSOXPRG4NCJI77Y2IRDXIV",
+        "read_event_id": "d8c50880-b1d6-48cc-a146-97ddbe4b6902",
+        "date_read": "2025-12-03T11:55:45-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -413,7 +422,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 9,
+    "daysLeftInCurrentChallenge": 8,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 10,
     "achievementsDisplayAttributes": [
