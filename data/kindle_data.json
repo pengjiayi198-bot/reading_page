@@ -81,7 +81,7 @@
     "utcEndTime": "2026-03-29T07:00:00.000Z",
     "start": "2026-02-09T00:00:00.000Z",
     "end": "2026-03-29T00:00:00.000Z",
-    "ttl": 1775012144
+    "ttl": 1775097587
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -149,22 +149,6 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "VUQIEOYHWXAF6Z7TQFP5ELU2YZCMNA2F",
-        "read_event_id": "c9b096cb-b3fb-49b2-b709-cb7b21b867e9",
-        "date_read": "2025-12-26T07:22:49-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
-        "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
-        "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
-        "date_read": "2025-12-26T12:03:53-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
         "asin": "ZVFAXELGQW5WYBRZOVM2Q6IXQRTSNXWD",
         "read_event_id": "bc29b249-2c3a-4e7a-bffa-f1535ebf71e1",
         "date_read": "2025-12-26T07:58:45-08:00",
@@ -181,9 +165,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "5M7WWDUNBIC7SJOCMR3JXIS2VFXIANHW",
-        "read_event_id": "edf75ee2-ca18-4a01-aeed-e9d84baa713d",
-        "date_read": "2025-12-25T01:55:49-08:00",
+        "asin": "VUQIEOYHWXAF6Z7TQFP5ELU2YZCMNA2F",
+        "read_event_id": "c9b096cb-b3fb-49b2-b709-cb7b21b867e9",
+        "date_read": "2025-12-26T07:22:49-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
+        "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
+        "date_read": "2025-12-26T12:03:53-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -192,6 +184,14 @@
         "asin": "IRQHOE3HCBLKOVS3X55I7UF4IYCVSBGD",
         "read_event_id": "4814d33a-ba2f-4a72-8f4b-a4036429d07e",
         "date_read": "2025-12-25T10:50:19-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "5M7WWDUNBIC7SJOCMR3JXIS2VFXIANHW",
+        "read_event_id": "edf75ee2-ca18-4a01-aeed-e9d84baa713d",
+        "date_read": "2025-12-25T01:55:49-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -221,14 +221,6 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "NNQYP4WWY7SQV6M24J6ZT6IA3JIWURFA",
-        "read_event_id": "6744a2ae-133c-4a84-887d-e1316aa18de5",
-        "date_read": "2025-12-20T02:14:09-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
         "asin": "W7DUMWI5GAUGI5MKXAOOIRVIM2X2OFMJ",
         "read_event_id": "9da253ed-4af1-41c0-94f2-1db4057ac5fe",
         "date_read": "2025-12-20T08:48:31-08:00",
@@ -237,9 +229,25 @@
         "book_uri": "UNKNOWN"
       },
       {
+        "asin": "NNQYP4WWY7SQV6M24J6ZT6IA3JIWURFA",
+        "read_event_id": "6744a2ae-133c-4a84-887d-e1316aa18de5",
+        "date_read": "2025-12-20T02:14:09-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
         "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
         "date_read": "2025-12-19T00:29:52-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
+        "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
+        "date_read": "2025-12-19T09:31:14-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -256,14 +264,6 @@
         "asin": "HQ6LLALTJMNVK2B6APGLCWO5SSWBDLAK",
         "read_event_id": "412d92ea-8fff-4a8d-8bcb-50e41d5a3797",
         "date_read": "2025-12-19T10:31:53-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
-        "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
-        "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
-        "date_read": "2025-12-19T09:31:14-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -419,35 +419,35 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 0,
+    "daysLeftInCurrentChallenge": 90,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 10,
+    "totalEarnedAchievements": 0,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
-        "quantity": 2,
-        "title": "Perfect Week",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
         "quantity": 0,
         "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectMonth_845978f4-f40d-3f29-9601-37e8742b27d2.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_SilverReader_2bd7c450-c9b7-3de1-848a-546ecacea042.png",
         "quantity": 0,
-        "title": "Perfect Month",
+        "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_LoveLetters_a3ebd971-e3ed-4248-8857-362d8514a552.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
         "quantity": 0,
-        "title": "Love Letters",
+        "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
+        "quantity": 0,
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
