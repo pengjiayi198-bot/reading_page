@@ -154,6 +154,14 @@
         "book_uri": "UNKNOWN"
       },
       {
+        "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
+        "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
+        "date_read": "2025-12-26T12:03:53-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "ZVFAXELGQW5WYBRZOVM2Q6IXQRTSNXWD",
         "read_event_id": "bc29b249-2c3a-4e7a-bffa-f1535ebf71e1",
         "date_read": "2025-12-26T07:58:45-08:00",
@@ -173,14 +181,6 @@
         "asin": "VUQIEOYHWXAF6Z7TQFP5ELU2YZCMNA2F",
         "read_event_id": "c9b096cb-b3fb-49b2-b709-cb7b21b867e9",
         "date_read": "2025-12-26T07:22:49-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
-        "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
-        "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
-        "date_read": "2025-12-26T12:03:53-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -242,14 +242,6 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "FNDWS3GT7YEWTQU3TCWE3QBIOHXS7MBI",
-        "read_event_id": "e3c138c9-d8d5-4187-9261-75d24dc01e27",
-        "date_read": "2025-12-19T00:55:33-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
         "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
         "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
         "date_read": "2025-12-19T00:29:52-08:00",
@@ -258,9 +250,9 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "HQ6LLALTJMNVK2B6APGLCWO5SSWBDLAK",
-        "read_event_id": "412d92ea-8fff-4a8d-8bcb-50e41d5a3797",
-        "date_read": "2025-12-19T10:31:53-08:00",
+        "asin": "FNDWS3GT7YEWTQU3TCWE3QBIOHXS7MBI",
+        "read_event_id": "e3c138c9-d8d5-4187-9261-75d24dc01e27",
+        "date_read": "2025-12-19T00:55:33-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -269,6 +261,14 @@
         "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
         "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
         "date_read": "2025-12-19T09:31:14-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "HQ6LLALTJMNVK2B6APGLCWO5SSWBDLAK",
+        "read_event_id": "412d92ea-8fff-4a8d-8bcb-50e41d5a3797",
+        "date_read": "2025-12-19T10:31:53-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -423,7 +423,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 8,
+    "daysLeftInCurrentChallenge": 7,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
