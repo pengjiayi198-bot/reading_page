@@ -242,14 +242,6 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
-        "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
-        "date_read": "2025-12-19T09:31:14-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
         "asin": "HQ6LLALTJMNVK2B6APGLCWO5SSWBDLAK",
         "read_event_id": "412d92ea-8fff-4a8d-8bcb-50e41d5a3797",
         "date_read": "2025-12-19T10:31:53-08:00",
@@ -258,9 +250,9 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "FNDWS3GT7YEWTQU3TCWE3QBIOHXS7MBI",
-        "read_event_id": "e3c138c9-d8d5-4187-9261-75d24dc01e27",
-        "date_read": "2025-12-19T00:55:33-08:00",
+        "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
+        "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
+        "date_read": "2025-12-19T09:31:14-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -269,6 +261,14 @@
         "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
         "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
         "date_read": "2025-12-19T00:29:52-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "FNDWS3GT7YEWTQU3TCWE3QBIOHXS7MBI",
+        "read_event_id": "e3c138c9-d8d5-4187-9261-75d24dc01e27",
+        "date_read": "2025-12-19T00:55:33-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -423,7 +423,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 4,
+    "daysLeftInCurrentChallenge": 3,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
