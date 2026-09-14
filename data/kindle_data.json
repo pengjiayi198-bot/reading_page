@@ -69,10 +69,16 @@
     "2026-07-31",
     "2026-08-01",
     "2026-08-16",
-    "2026-08-30"
+    "2026-08-30",
+    "2026-09-13"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-09-13T07:00:00.000Z",
+    "start": "2026-09-13T00:00:00.000Z",
+    "end": "2026-09-13T00:00:00.000Z",
+    "ttl": 1789358713
   },
   "longest_daily_streak": {
     "duration": 18,
@@ -84,10 +90,10 @@
   "current_weekly_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-30T07:00:00.000Z",
-    "start": "2026-08-30T00:00:00.000Z",
-    "end": "2026-08-30T00:00:00.000Z",
-    "ttl": 1789271852
+    "utcEndTime": "2026-09-13T07:00:00.000Z",
+    "start": "2026-09-13T00:00:00.000Z",
+    "end": "2026-09-13T00:00:00.000Z",
+    "ttl": 1789358713
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -96,7 +102,7 @@
     "start": "2026-02-09T00:00:00.000Z",
     "end": "2026-03-29T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "at_risk",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2026": {
@@ -171,22 +177,6 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "ZVFAXELGQW5WYBRZOVM2Q6IXQRTSNXWD",
-        "read_event_id": "bc29b249-2c3a-4e7a-bffa-f1535ebf71e1",
-        "date_read": "2025-12-26T07:58:45-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
-        "asin": "VUQIEOYHWXAF6Z7TQFP5ELU2YZCMNA2F",
-        "read_event_id": "c9b096cb-b3fb-49b2-b709-cb7b21b867e9",
-        "date_read": "2025-12-26T07:22:49-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
         "asin": "B4IX5KNF23DBGIIQ4RTGH2BZZZA5GDCJ",
         "read_event_id": "a027f4b4-3dcb-4d76-9d7d-ccf517698aef",
         "date_read": "2025-12-26T12:03:53-08:00",
@@ -198,6 +188,22 @@
         "asin": "X5Z55OFM7QPTULH7JCDCMXUTY2SVXRX3",
         "read_event_id": "e67082ab-bb63-4d90-93fd-8b03a85a0d1b",
         "date_read": "2025-12-26T09:56:48-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "ZVFAXELGQW5WYBRZOVM2Q6IXQRTSNXWD",
+        "read_event_id": "bc29b249-2c3a-4e7a-bffa-f1535ebf71e1",
+        "date_read": "2025-12-26T07:58:45-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "VUQIEOYHWXAF6Z7TQFP5ELU2YZCMNA2F",
+        "read_event_id": "c9b096cb-b3fb-49b2-b709-cb7b21b867e9",
+        "date_read": "2025-12-26T07:22:49-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -267,6 +273,14 @@
         "book_uri": "UNKNOWN"
       },
       {
+        "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
+        "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
+        "date_read": "2025-12-19T00:29:52-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "FNDWS3GT7YEWTQU3TCWE3QBIOHXS7MBI",
         "read_event_id": "e3c138c9-d8d5-4187-9261-75d24dc01e27",
         "date_read": "2025-12-19T00:55:33-08:00",
@@ -278,14 +292,6 @@
         "asin": "O6XLFCMV5XDVIU6SQWJOWSAYE35LNWGN",
         "read_event_id": "b0ed0098-fd9f-441a-bf9c-ddc5c5ca619d",
         "date_read": "2025-12-19T09:31:14-08:00",
-        "content_type": "PDOC",
-        "source_origin": "KINDLE",
-        "book_uri": "UNKNOWN"
-      },
-      {
-        "asin": "PQPKZVHHR7AQMFEBMOXJWOG6CMIXPEAD",
-        "read_event_id": "b890ac8f-6094-415d-a9d3-04a369a38921",
-        "date_read": "2025-12-19T00:29:52-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -440,13 +446,13 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 18,
+    "daysLeftInCurrentChallenge": 17,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
-        "quantity": 2,
+        "quantity": 3,
         "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
